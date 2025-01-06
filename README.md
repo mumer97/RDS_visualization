@@ -23,7 +23,7 @@ Cleanup: Clean up resources to avoid unnecessary costs.
 📊 **Visual Results**
 ![Screenshot 2025-01-05 172850](https://github.com/user-attachments/assets/769e74f9-0d0e-4e60-9e7e-5da7bbbe5153)
 
-🙌** Acknowledgments**
+🙌 ** Acknowledgments**
 Special thanks to @NextWork for their support and resources!
 
 
